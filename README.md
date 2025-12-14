@@ -58,7 +58,8 @@ See the `screenshots/` folder for dashboard visuals.
 This dataset was provided `Business_sales_EDA`. Although the dataset was gotten from kaggle.
 -[download here](https://www.kaggle.com/datasets/ayeshaseherr/buisness-sales)
 
-## Dashboard
+## 🖼️ Dashboard Preview
+See the `screenshots/` folder for dashboard visuals.
 dashboard overview <img width="2299" height="1300" alt="dashboard overview" src="https://github.com/user-attachments/assets/06038493-cb32-4ab9-9db7-85d3eeae2239" />
 
 Merchandising & Promotion Analysis <img width="2306" height="1301" alt="MERCHANDISING   PROMOTION ANALYSIS" src="https://github.com/user-attachments/assets/41c91138-3174-4df8-90a5-7da465a2c879" />
