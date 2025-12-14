@@ -1,2 +1,55 @@
-# power-bi-sales-performance-dashboard
-Power BI dashboard analysing retail product performance, promotions, pricing, and seasonal trends.
+# 📊 Power BI Sales Performance Dashboard
+
+## 📌 Project Overview
+This project presents an interactive Power BI dashboard built using a raw, semicolon-separated retail dataset. The dashboard analyses product performance, promotional indicators, pricing, and seasonal attributes to support data-driven decision-making.
+
+## 📂 Dataset
+- Source file: `Business_sales_EDA.csv`
+- Product-level retail data including:
+  - Product ID and positioning
+  - Promotion indicators
+  - Product category and seasonality
+  - Brand and merchandising attributes
+  - Pricing and currency information
+
+> The dataset required preprocessing due to semicolon delimiters and raw formatting.
+
+## 🧹 Data Preparation
+- Parsed semicolon-separated raw data into structured columns
+- Cleaned and standardised categorical variables
+- Converted pricing fields to numeric format
+- Performed validation and consistency checks using Power Query
+
+## 🎯 Objectives
+- Analyse product and category performance
+- Evaluate promotional and seasonal trends
+- Support interactive exploration of retail metrics
+
+## 🧠 Approach
+- Built a structured data model in Power BI
+- Created DAX measures for analysis
+- Designed interactive visuals with slicers and filters
+
+## 🛠️ Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- CSV data source
+
+## 📊 Key Features
+- Product and category-level analysis
+- Promotion vs non-promotion comparisons
+- Seasonal and merchandising insights
+- Interactive filtering and drill-downs
+
+## 📈 Key Insights
+- Promotions influenced product positioning and pricing patterns
+- Seasonal attributes impacted product distribution
+- Category analysis revealed variations in product mix
+
+## 🖼️ Dashboard Preview
+See the `screenshots/` folder for dashboard visuals.
+
+## ▶️ How to View
+1. Download the `.pbix` file from the `powerbi/` folder
+2. Open it using **Power BI Desktop**
