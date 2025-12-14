@@ -53,3 +53,10 @@ See the `screenshots/` folder for dashboard visuals.
 ## ▶️ How to View
 1. Download the `.pbix` file from the `powerbi/` folder
 2. Open it using **Power BI Desktop**
+
+## 📁 Data Source
+This dataset was provided `Business_sales_EDA`. Although the dataset was gotten from kaggle.
+-[download here](https://www.kaggle.com/datasets/ayeshaseherr/buisness-sales)
+
+## Dashboard
+dashboard overview <img width="2299" height="1300" alt="dashboard overview" src="https://github.com/user-attachments/assets/06038493-cb32-4ab9-9db7-85d3eeae2239" />
