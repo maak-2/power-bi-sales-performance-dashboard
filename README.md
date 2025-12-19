@@ -1,5 +1,8 @@
 # 📊 Power BI Sales Performance Dashboard
 
+## 🖼️ Dashboard Preview
+dashboard overview <img width="2299" height="1300" alt="dashboard overview" src="https://github.com/user-attachments/assets/06038493-cb32-4ab9-9db7-85d3eeae2239" />
+
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard built using a raw, semicolon-separated retail dataset. The dashboard analyses product performance, promotional indicators, pricing, and seasonal attributes to support data-driven decision-making.
 
