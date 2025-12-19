@@ -5,6 +5,7 @@ dashboard overview <img width="2299" height="1300" alt="dashboard overview" src=
 
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard built using a raw, semicolon-separated retail dataset. The dashboard analyses product performance, promotional indicators, pricing, and seasonal attributes to support data-driven decision-making.
+This project demonstrates practical Business Intelligence skills, including data preparation, KPI design, dashboard development, and insight generation using Power BI.
 
 ## 📂 Dataset
 - Source file: `Business_sales_EDA.csv`
@@ -46,9 +47,10 @@ This project presents an interactive Power BI dashboard built using a raw, semic
 - Interactive filtering and drill-downs
 
 ## 📈 Key Insights
-- Promotions influenced product positioning and pricing patterns
-- Seasonal attributes impacted product distribution
-- Category analysis revealed variations in product mix
+- Promotional products showed distinct pricing and positioning patterns compared to non-promoted items.
+- Seasonal attributes influenced product distribution across categories.
+- Category-level analysis revealed differences in product mix and merchandising strategy.
+
 
 ## 🖼️ Dashboard Preview
 See the `screenshots/` folder for dashboard visuals.
